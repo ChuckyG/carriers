@@ -1,18 +1,24 @@
 {
-  "responseMap": {
-    "planMap": {
-      "17139": "Absolute Total Care"
-    },
-    "planName": "Absolute Total Care",
-    "carrierMap": {
-      "1": "ABSOLUTE TOTAL CARE",
-      "2": "ACCOUNTABLE HEALTH PLAN OF OH",
-      "3": "ACS",
-      "4": "ADVICARE",
-      "5": "AETNA"
-    },
-    "status": "00",
-    "carrierName": "ABSOLUTE TOTAL CARE",
-    "statusMsg": "success"
-  }
+    "responseMap": {
+        "planMap": [
+            {
+                "order": 2,
+                "id": "14830",
+                "name": "Diebold (Employees and Dependents Only)/AultCare"
+            },
+            {
+                "order": 1,
+                "id": "14831",
+                "name": "Akron Public Schools (Employees and DependentsOnly)/AultCare"
+            },
+            {
+                "order": 3,
+                "id": "14828",
+                "name": "FirstMerit (Employees and Dependents Only)/AultCare"
+            }
+        ],
+        "planName": "Akron Public Schools (Employees and DependentsOnly)/AultCare",
+        "status": "00",
+        "statusMsg": "success"
+    }
 }
